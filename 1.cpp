@@ -1,5 +1,5 @@
-// Wyszukiwanie w drzewie BST
-// Data: 24.04.2013 /Zmiana Marcina!!!/
+// Wyszukiwanie w drzewie BST tutaj olek zmienil cos
+// Data: 24.04.2013
 // (C)2013 mgr Jerzy Wa³aszek
 //------------------------------
 
