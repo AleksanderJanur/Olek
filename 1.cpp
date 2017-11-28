@@ -1,4 +1,4 @@
-// Wyszukiwanie w drzewie BST
+// Wyszukiwanie w drzewie BST tutaj olek zmienil cos
 // Data: 24.04.2013
 // (C)2013 mgr Jerzy Wa³aszek
 //------------------------------
